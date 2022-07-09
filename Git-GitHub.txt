@@ -1,0 +1,3 @@
+O Git é um controle de versão de código aberto onde vários desenvolvedores possam colaborar com projetos
+A principal forma de interação é por meio de comandos através de um terminal dentro de uma máquina, no caso do desafio
+foi usado o Git Bash.
